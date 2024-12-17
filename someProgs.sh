@@ -1,7 +1,7 @@
 sudo apt install git -y
 sudo apt install gcc cmake -y
 sudo apt install g++ -y
-# sudo apt install -y
+sudo apt install valgrind -y
 # sudo apt install -y
 # sudo apt install -y
 # sudo apt install -y
