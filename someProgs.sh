@@ -3,6 +3,7 @@ sudo apt install gcc cmake -y
 sudo apt install g++ -y
 sudo apt install valgrind -y
 sudo apt install clang-format -y
+sudo apt install cppcheck -y
 # sudo apt install -y
 # sudo apt install -y
 # sudo apt install -y
