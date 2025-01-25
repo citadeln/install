@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo apt install git -y
 sudo apt install gcc cmake -y
 sudo apt install g++ -y
@@ -20,3 +22,6 @@ sudo apt install code
 #установка gtest библиотеки
 sudo apt install libgtest-dev
 sudo apt-get install libsubunit-dev
+
+#установка PostgreSQL
+#. installPostgreSQL.sh
